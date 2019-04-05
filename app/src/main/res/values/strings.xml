@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LookAtME</string>
+    <string name="size">Size</string>
+    <string name="path">Path</string>
+    <string name="date">date</string>
+    <string name="name">Name</string>
+    <string name="_00_13">00:13</string>
+    <string name="no_video_found">No Video Found</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
